@@ -1,5 +1,7 @@
 # 🏭 AI-Powered B2B Supplier Recommendation Assistant
 
+https://b2b-supplier-recommender-4cjmkxqbuvhvazakysftqt.streamlit.app/
+
 Describe what you want to buy in plain language, and the assistant **extracts your requirements, retrieves matching offers, ranks suppliers on transparent criteria, and drafts your RFQ email**.
 
 > Built as a portfolio project for B2B marketplace sourcing (inspired by platforms like IndiaMART).
